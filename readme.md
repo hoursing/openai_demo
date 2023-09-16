@@ -1,0 +1,2 @@
+API Chat GPT Key:
+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
